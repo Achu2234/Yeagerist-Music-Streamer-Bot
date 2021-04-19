@@ -2,7 +2,7 @@
 
 <!--start: description-->
 
-**Yeagerist Music Streamer Bot**(https://upptime.js.org) Yeagerist Music Streamer Bot  is a Bot That Can Play Music Via Voice Chat In Your Group 😌!
+**Yeagerist Music Streamer Bot** Yeagerist Music Streamer Bot  is a Bot That Can Play Music Via Voice Chat In Your Group 😌!
 
 Features,
 
