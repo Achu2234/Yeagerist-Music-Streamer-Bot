@@ -20,25 +20,15 @@ Supports More Websites With More Features! 😋
 
 <!--start: docs-->
 
-_This README is also available in [🇧🇷 Brazilian Portuguese](./README.pt-br.md)_
-
 ## ⭐ How it works
 
-- GitHub Actions is used as an uptime monitor
-  - Every 5 minutes, a workflow visits your website to make sure it's up
-  - Response time is recorded every 6 hours and committed to git
-  - Graphs of response time are generated every day
-- GitHub Issues are used for incident reports
-  - An issue is opened if an endpoint is down
-  - People from your team are assigned to the issue
-  - Incidents reports are posted as issue comments
-  - Issues are locked so non-members cannot comment on them
-  - Issues are closed automatically when your site comes back up
-  - Slack notifications are sent on updates
-- GitHub Pages are used for the status website
-  - A simple, beautiful, and accessible PWA is generated
-  - Built with Svelte and Sapper
-  - Fetches data from this repository using the GitHub API
+Hi ! Do you need Help! 🤔️ yea yea I know it! 🙃️
+How To Use Me? 🧐️
+ 1. Add Me and @Achubiju6c To Your Group!
+ 2. Give Admin To Me and @Achubiju6c !
+ 
+ Enjoy! 😌️
+Made with ❤️ @Animemusicarchive6
 
 _Upptime is not affiliated to or endorsed by GitHub._
 
@@ -46,17 +36,19 @@ _Upptime is not affiliated to or endorsed by GitHub._
 
 
 
-## 👩‍💻 [Documentation](https://upptime.js.org)
+## 👩‍💻 command list
 
-1. [How it works](https://upptime.js.org/docs)
-1. [Getting started](https://upptime.js.org/docs/get-started)
-1. [Configuration](https://upptime.js.org/docs/configuration)
-1. [Triggers](https://upptime.js.org/docs/triggers)
-1. [Notifications](https://upptime.js.org/docs/notifications)
-1. [Badges](https://upptime.js.org/docs/badges)
-1. [Packages](https://upptime.js.org/docs/packages)
-1. [Contributing](https://upptime.js.org/docs/contributing)
-1. [Frequently Asked Questions](https://upptime.js.org/docs/faq)
+Here is the list of available commands! 😃️
+/play - Reply to supported url or "/play supported url"
+/skip - Skip currenly playing song!
+/pause - Pause currently playing song!
+/resume - Resume currently pushed song!
+/mute - Mutes Streamer!
+/unmute - Unmutes streamer!
+/vc - Give voice chat link of your group! (Only For Public Groups)
+/yts (song name) - Download song by it's name!
+ 
+ Enjoy! 😌️
 
 ### Concepts
 
