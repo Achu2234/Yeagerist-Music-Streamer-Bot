@@ -22,33 +22,50 @@ Supports More Websites With More Features! 😋
 
 ## ⭐ How it works
 
-Hi ! Do you need Help! 🤔️ yea yea I know it! 🙃️
-How To Use Me? 🧐️
- 1. Add Me and @Achubiju6c To Your Group!
- 2. Give Admin To Me and @Achubiju6c !
- 
- Enjoy! 😌️
-Made with ❤️ @Animemusicarchive6
+• First add The Yeagerist Music Streamer Bot and Yeagerist Group Music Assistant  to Your Group 😊
+
+• Then Give Admin Rights To Both Of Them ☝
+
+• Start Voice Chat! 🎶
+
+• Then simply send "/play {supported link}" to start playing! or Reply to Audio File ❤
+
+
+
+Available Commands 👇️,
+
+
+/play - Reply to supported url or "/play supported url"
+
+/skip - Skip currenly playing song!
+
+/pause - Pause currently playing song!
+
+/resume - Resume currently pushed song!
+
+/mute - Mutes Streamer!
+
+/unmute - Unmutes streamer!
+
+/vc - Give voice chat link of your group! (Only For Public Groups)
+
+/cmdlist - Get List Of Available Commands
+
+/yts (song name) - Download song by it's name!
+
+/deezer (song name) - Download song by deezer
+
+Most of commands are Admin Only! 👮️
+
+Support! 
+Need Support? Ask in @Yeageristbots 😌️
+
+
 
 _Yeagerist-Music-Streamer-Bot is not affiliated to or endorsed by GitHub._
 
 [![Screenshot of status Bot](https://telegra.ph/file/3fb020ebd35a3c75b0fc6.jpg)
 
-
-
-## 👩‍💻 command list
-
-Here is the list of available commands! 😃️
-/play - Reply to supported url or "/play supported url"
-/skip - Skip currenly playing song!
-/pause - Pause currently playing song!
-/resume - Resume currently pushed song!
-/mute - Mutes Streamer!
-/unmute - Unmutes streamer!
-/vc - Give voice chat link of your group! (Only For Public Groups)
-/yts (song name) - Download song by it's name!
- 
- Enjoy! 😌️
 
 ### Concepts
 
