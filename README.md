@@ -1,4 +1,4 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# [![Yeagerist Music Streamer Bot](https://telegra.ph/file/7591ba3f76f4172cae227.jpg)](https://t.me/YeageristMusic_bot)
 
 <!--start: description-->
 
