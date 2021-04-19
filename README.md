@@ -6,13 +6,13 @@
 
 Features,
 
-• Soundcloud Url Supported
-• YouTube Url Supported
-• Play Directly Via Telegram Audio Files
-• Download Songs Via Deezer
-• Download Songs Via Saavn
-• Search Youtube Videos Inline
-• No Time Duration Limits
+ Soundcloud Url Supported
+ YouTube Url Supported
+ Play Directly Via Telegram Audio Files
+Download Songs Via Deezer
+ Download Songs Via Saavn
+ Search Youtube Videos Inline
+ No Time Duration Limits
 
 Supports More Websites With More Features! 😋
 
