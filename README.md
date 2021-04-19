@@ -2,7 +2,19 @@
 
 <!--start: description-->
 
-**Upptime** (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues. It's made with 💚 by your friends at [Koj](https://koj.co).
+**Yeagerist Music Streamer Bot**(https://upptime.js.org) Yeagerist Music Streamer Bot  is a Bot That Can Play Music Via Voice Chat In Your Group 😌!
+
+Features,
+
+• Soundcloud Url Supported
+• YouTube Url Supported
+• Play Directly Via Telegram Audio Files
+• Download Songs Via Deezer
+• Download Songs Via Saavn
+• Search Youtube Videos Inline
+• No Time Duration Limits
+
+Supports More Websites With More Features! 😋
 
 <!--end: description-->
 
