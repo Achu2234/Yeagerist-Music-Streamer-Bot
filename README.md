@@ -18,7 +18,7 @@ Supports More Websites With More Features! 😋
 
 <!--end: description-->
 
-[![Uptime CI](https://github.com/upptime/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Uptime CI](https://github.com/Achu2234/Yeagerist-Music-Streamer-Bot/actions?query=https%3A%2F%2Fgithub.com%2FAchu2234%2FCallsmusic-Plus-6)
 [![Response Time CI](https://github.com/upptime/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/upptime/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/upptime/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
