@@ -30,9 +30,9 @@ How To Use Me? 🧐️
  Enjoy! 😌️
 Made with ❤️ @Animemusicarchive6
 
-_Upptime is not affiliated to or endorsed by GitHub._
+_Yeagerist-Music-Streamer-Bot is not affiliated to or endorsed by GitHub._
 
-[![Screenshot of status website](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/screenshot-status.png)](https://upptime.js.org)
+[![Screenshot of status Bot](https://telegra.ph/file/3fb020ebd35a3c75b0fc6.jpg]
 
 
 
