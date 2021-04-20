@@ -62,14 +62,6 @@ Most of commands are Admin Only! 👮️
 Support! 
 Need Support? Ask in @Yeageristbots 😌️
 
-<!--start: docs-->
-
-#Why Yeagerist-Music-Streamer-Bot
-
-[![Screenshot of status Bot](https://telegra.ph/file/f6fcf617183d93d150056.jpg)
-
-[![Screenshot of status Bot](https://telegra.ph/file/aa3654af5d7b03b72f053.jpg)
-
 
 
 _Yeagerist-Music-Streamer-Bot is not affiliated to or endorsed by GitHub._
@@ -77,7 +69,22 @@ _Yeagerist-Music-Streamer-Bot is not affiliated to or endorsed by GitHub._
 [![Screenshot of status Bot](https://telegra.ph/file/3fb020ebd35a3c75b0fc6.jpg)
 
 
-### Concepts
+### Why Yeagerist-Music-Streamer-Bot
+
+
+Yeagerist-Music-Streamer-Bot is so simple that you already know how to use it.
+
+Yeagerist-Music-Streamer-Bot has an encrypted dashboard where users can change their key whenever they want.
+
+Yeagerist-Music-Streamer-Bot has a dashboard synchronized with the bot and with all open browsers.
+
+Yeagerist-Music-Streamer-Bot, thanks to the power of our server, permits you to play music in a fast and smooth way.
+
+Yeagerist-Music-Streamer-Bot has no playback limits in groups, you can use it anywhere.
+
+Yeagerist-Music-Streamer-Botis based on an opensource library, called PyTgCalls.
+  
+
 
 #### Issues as incidents
 
