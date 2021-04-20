@@ -83,7 +83,34 @@ Yeagerist-Music-Streamer-Bot, thanks to the power of our server, permits you to 
 Yeagerist-Music-Streamer-Bot has no playback limits in groups, you can use it anywhere.
 
 Yeagerist-Music-Streamer-Botis based on an opensource library, called PyTgCalls.
-  
+
+
+####Yeagerist-Music-Streamer-Bot Status
+
+ SERVICES ARE HAVING SOME PROBLEMS
+ 
+Checked in 5230,64ms
+
+UserBot API
+Average Ping: 0,83 ms
+
+UserBot PyTgCalls
+
+WebSite
+Average Ping: 285,8 ms
+
+QR API
+Average Ping: 186,91 ms
+
+Bot WebHook
+Average Ping: 239,93 ms
+
+Yeagerist-Music-Streamer-Bot Dashboard
+Average Ping: 252,39 ms
+
+YouTube.com
+Average Ping: 440,74 ms
+
 
 
 #### Issues as incidents
