@@ -119,9 +119,13 @@ Average Ping: 440,74 ms
 
 
 
-#### Issues as incidents
+#### Support 
 
-When the GitHub Actions workflow detects that one of your URLs is down, it automatically opens a GitHub issue ([example issue #15](https://github.com/koj-co/upptime/issues/15)). You can add incident reports to this issue by adding comments. When your site comes back up, the issue will be closed automatically as well.
+Group : https://t.me/Yeageristbots
+Channel : https://t.me/Animemusicarchive6
+Website ; https://bit.ly/2PyT0xJ
+
+
 
 <
 
