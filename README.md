@@ -12,6 +12,12 @@ Features ; Soundcloud Url Supported , YouTube Url Supported  , Play Directly Via
 Supports More Websites With More Features! 😋
 
 
+<!--start: docs-->
+
+#About the Project
+
+We introduce Groups Music, a project under development that will allow to play music in all groups through the new voice chats recently introduced by Telegram.
+The whole project has been developed from an Italian and very young team of developers, but with a lot of determination and desire to carry on this innovative project.
 
 
 <!--start: docs-->
@@ -55,6 +61,14 @@ Most of commands are Admin Only! 👮️
 
 Support! 
 Need Support? Ask in @Yeageristbots 😌️
+
+<!--start: docs-->
+
+#Why Yeagerist-Music-Streamer-Bot
+
+[![Screenshot of status Bot](https://telegra.ph/file/f6fcf617183d93d150056.jpg)
+
+[![Screenshot of status Bot](https://telegra.ph/file/aa3654af5d7b03b72f053.jpg)
 
 
 
