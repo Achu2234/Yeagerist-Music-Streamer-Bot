@@ -40,7 +40,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 52,
     "timeDay": 80,
-    "timeWeek": 47,
+    "timeWeek": 52,
     "timeMonth": 56,
     "timeYear": 56,
     "dailyMinutesDown": {}
